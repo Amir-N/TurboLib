@@ -7,7 +7,7 @@ int main()
 {
     TStrings firs_str;
     TStrings sec_str ("C++");
-    TStrings third_str {"Doll o Doliche"};
+    TStrings third_str {"Semitcolons"};
     TStrings fourth_str(sec_str);
     firs_str = sec_str;
 
